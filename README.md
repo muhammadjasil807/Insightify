@@ -110,7 +110,3 @@ I am feeling excited about my new project!
 **Conclusion**
 
 This project demonstrates how AI and NLP can provide **actionable insights into text and mental health cues**. It’s a foundation for building more advanced mental health and text analysis tools.
-
-
-Do you want me to do that next?
-
