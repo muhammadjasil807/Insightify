@@ -81,7 +81,7 @@ Why is my phone not working again? This is so frustrating
 * **Emotion:** Anger, Sadness, Surprise
 * **Named Entities:** phone (PRODUCT)
 * **Toxicity:** Low
-* **Mental Health Insight:** Disappointment / Sadness, Excitement / Happiness
+* **Mental Health Insight:** Disappointment / Sadness
 
 ---
 
