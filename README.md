@@ -1,6 +1,7 @@
-Insightify — AI-Powered Text & Mental Health Insights
+Insightify
+AI/Ml NLP Powered Text & Mental Health Insights
 
-**Insightify** is an AI/ML-powered text analyzer that provides **Sentiment, Intent, Emotion, Named Entities, Toxicity, and Mental Health Insights** based on user input. The system leverages transformer-based models and SpaCy NLP pipelines to understand text and detect mental health cues such as stress, sadness, excitement, and happiness.
+**Insightify** is an AI/ML NLP powered text analyzer that provides **Sentiment, Intent, Emotion, Named Entities, Toxicity, and Mental Health Insights** based on user input. The system leverages transformer-based models and SpaCy NLP pipelines to understand text and detect mental health cues such as stress, sadness, excitement, and happiness.
 
 Deployed via **Streamlit**, it provides a real-time, interactive interface for text analysis.
 
