@@ -95,10 +95,10 @@ insightify
 
  Installation and Running
 
-**Step 1** — Clone the Repository
-**Step 2** — Install Dependencies
-**Step 3** — Run the Streamlit App
-**Step 4** — (Optional) Public URL via Ngrok
+**Step 1** - Clone the Repository
+**Step 2** - Install Dependencies
+**Step 3** - Run the Streamlit App
+**Step 4** - (Optional) Public URL via Ngrok
 
  Future Improvements
 
